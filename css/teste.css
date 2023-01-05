@@ -1,0 +1,28 @@
+.img1 {
+  height: 160px;
+}
+.v23_32{
+  width: 248px;
+  color: rgba(81, 54, 54, 1);
+  position: absolute;
+  top: 1px;
+  left: 14px;
+  font-family: Bebas Neue;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v23_39{
+  width: 276px;
+  height: 59px;
+  background: url("../images/v23_39.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 690px;
+  left: 42px;
+  overflow: hidden;
+}
